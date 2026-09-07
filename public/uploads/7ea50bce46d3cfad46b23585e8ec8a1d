@@ -1,0 +1,153 @@
+Atlas 3.0 
+
+ 
+
+Atlas AI Studio 
+
+Atlas AI Agent Studio 
+
+ 
+
+Atlas AI Gateway 
+
+AI Gateway  
+
+Cloud Agnostic AI Gateway - Containerized 
+
+Multi Model Provider Support 
+
+AWS 
+
+Azure 
+
+Gemini / GCP 
+
+OpenAI 
+
+Anthropic 
+
+ElevenLabs 
+
+Custom / Self Hosted – OpenAI API Spec 
+
+Etc.. 
+
+Model Management 
+
+Model Parameters – Model ID, Temp, Tokens, TopP, TopK, Model Credential via Atlas Vault etc.. 
+
+Multi Modality Support – Text, Image, Video, Embeddings, Voice, STT 
+
+Model Routing 
+
+Load Balancing 
+
+User Basis Routing 
+
+Prompt Routing 
+
+Failover 
+
+Cost-based Routing 
+
+Data-classification Routing ( TBD ) 
+
+Geography-based Routing ( TBD ) 
+
+ 
+
+Text To Speech 
+
+Multi Service / Model Support 
+
+AWS Polly 
+
+Elevnlabs 
+
+Sarvam 
+
+Etc... 
+
+Speech To Text 
+
+Multi Service / Model Support 
+
+AWS Transcribe 
+
+Whisper 
+
+Azure Speech Services 
+
+Etc... 
+
+Virtual API Keys 
+
+Policy Center 
+
+Security Policies 
+
+Guardrail Policies 
+
+Model Policies 
+
+Compliance Policies 
+
+Routing Policies 
+
+Quotas 
+
+Rate Limit – Token Based, Request Based, Throughput Based, etc.. 
+
+Token Budgeting 
+
+Model Evaluation Framework 
+
+Tools & MCP Gateway ( TBD ) 
+
+Tools & MCP Hub / Marketplace ( TBD ) 
+
+A2A Gateway ( TBD – Roadmap ) 
+
+Prompt Management ( TBD ) 
+
+Runtime Enforcement Engine 
+
+Enforce Policies Globally 
+
+Observability 
+
+Token Monitoring 
+
+Budget Monitoring 
+
+Cost Monitoring 
+
+Conversation Logs 
+
+... 
+
+ Anomaly Detection 
+
+Sudden token spike 
+
+ Sudden cost spike  
+
+Unusual model usage  
+
+Unusual API calls  
+
+Provider error spike  
+
+Latency spike  
+
+Prompt attack spike 
+
+IAM 
+
+Audit Logs 
+
+Observability 
+
+Vault 
+
+ 

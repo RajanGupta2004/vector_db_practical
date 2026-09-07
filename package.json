@@ -7,19 +7,22 @@
   "type": "module",
   "main": "server.js",
   "scripts": {
-  "dev": "tsx watch src/server.ts",
-  "build": "tsc",
-  "start": "node dist/server.js",
-  "seed": "tsx scripts/seed.ts"
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "seed": "tsx scripts/seed.ts"
   },
   "dependencies": {
     "@qdrant/js-client-rest": "^1.19.0",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "openai": "^7.10.0"
+    "multer": "^2.3.0",
+    "openai": "^7.10.0",
+    "pdf-parse": "^2.4.5"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
+    "@types/multer": "^2.2.0",
     "@types/node": "^26.4.1",
     "tsx": "^4.23.13",
     "typescript": "^7.0.2"
